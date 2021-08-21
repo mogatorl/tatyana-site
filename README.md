@@ -1,2 +1,2 @@
-# tatyana-site
-for my mom
+# young novators
+our project
